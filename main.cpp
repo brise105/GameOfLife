@@ -1,0 +1,1 @@
+//Brandon Briseno|SID: 1932124|Assignment2: Game of Life|CPSC350-01(German)#include "Life.h"int main() {	Life conwaysGame;	conwaysGame.prepGame();	conwaysGame.automateLife();	return 0;}
